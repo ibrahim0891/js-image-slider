@@ -1,3 +1,1 @@
-# js-image-slider
-Read it
-Checking Spck Gut client system
+**This is a markdown heading
